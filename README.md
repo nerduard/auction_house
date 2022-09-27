@@ -1,9 +1,7 @@
 # auction_house
 A simple terminal-based auction house application
 
-The application was built according to the following requirements:
-===========================================
-### Requirements:
+### The application was built according to the following requirements:
 
 Consider you are running an auction website in which people can put items up for sale, and others
 can bid to buy them. At the end of each auction if there are bids meeting or in excess of the
@@ -18,8 +16,7 @@ At the end of the auction the winner will pay the price of the second highest bi
 is only a single valid bid they will pay the reserve price of the auction. If two bids are received
 for the same amount then the earliest bid wins the item.
 
-
-===========================================
+___________________________________________
 
 ** EXERCISE **
 
@@ -111,17 +108,16 @@ Output:
 
 # SOLUTION
 
-===========================================
 Eduard Vasilescu's solution for:
 Programming Test - Auction House
 v1.0
-===========================================
+___________________________________________
 
 Requirements:
  - Python 3.9.1
  - Pytest 7.1.2
 
-===========================================
+___________________________________________
 
 How to run application:
  - for consistency, drop your input file(s) 
@@ -145,7 +141,7 @@ How to run tests:
  pytest tests/test_package.py -k "function_name"
  -> to run individual test function.
 
-===========================================
+___________________________________________
 
 There are a few assumptions that were made during the development of
 this solution, as follows:
