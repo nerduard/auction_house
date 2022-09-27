@@ -1,0 +1,8 @@
+10|1|SELL|iphone|100.00|20
+11|2|SELL|macbook|75.00|20
+12|1|BID|macbook|75.50
+14|5|BID|macbook|65.50
+14|11|BID|iphone|60.00
+15|8|BID|macbook|175.50
+16|13|BID|iphone|110.00
+20

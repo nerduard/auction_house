@@ -1,0 +1,7 @@
+10|1|SELL|raspberry_pi|10.00|20
+12|8|BID|raspberry_pi|5.50
+13|7|BID|raspberry_pi|6.50
+15
+16|9|BID|raspberry_pi|7.50
+19|8|BID|raspberry_pi|12.50
+21

@@ -1,0 +1,4 @@
+10|1|SELL|macintosh|10.00|20
+14|5|BID|macintosh|12.50
+14|7|BID|macintosh|12.50
+20
